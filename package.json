@@ -1,0 +1,27 @@
+{
+  "name": "fetch-mock-forwarder",
+  "version": "1.0.0",
+  "description": "A drop-in replacement for isomorphic-fetch to be used with fetch-mock in browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spaceviewinc/fetch-mock-forwarder.git"
+  },
+  "keywords": [
+    "fetch-mock",
+    "fetch",
+    "isomorphic-fetch"
+  ],
+  "author": "SpaceView, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spaceviewinc/fetch-mock-forwarder/issues"
+  },
+  "homepage": "https://github.com/spaceviewinc/fetch-mock-forwarder#readme",
+  "dependencies": {
+    "whatwg-fetch": "^0.10.1"
+  }
+}
